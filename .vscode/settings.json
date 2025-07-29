@@ -1,0 +1,12 @@
+{
+    "gitdoc.enabled": true,
+    "files.associations": {
+        "string.h": "c",
+        "ctype.h": "c",
+        "typeinfo": "c",
+        "stdlib.h": "c",
+        "library": "c",
+        "stdio.h": "c",
+        "getopt.h": "c"
+    }
+}
